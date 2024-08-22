@@ -22,6 +22,8 @@ foundryup
 forge install
 ```
 
+## Resources
+
 ### Connecting to the XRPL EVM Sidechain
 |Slides|Link|
 |---|---|
@@ -49,7 +51,7 @@ forge install
 - [Band Protocol's Solidity Standard Reference Contracts](https://github.com/bandprotocol/band-std-reference-contracts-solidity)
 
 
-# Fetch price contract demo
+## Band Oracle Workshop
 
 *This contract is used to fetch the price of a token from the band protocol oracle on xrpl devnet.* 
 
@@ -60,7 +62,7 @@ forge install
 > - ETH
 >
 
-# Calling the contract via Foundry
+### Calling the contract via Foundry
 * Running this command will grab the price of three tokens from the oracle contract on the devnet, priced in USD.
 * It will return the price data as a tuple of three values, encoded in hex. 
 * To decode the hex data, use the decode.py script in the tools directory. 
@@ -83,7 +85,7 @@ Resulting example output (these numbers would need to have their decimal points 
 Decoded Prices: [56019399896237565829246, 499790972828598737, 2399248544722519274379]
 ```
 
-### Deploying the contract
+## Deploying the contract
 
 Note: the constructor args is the address of the oracle contract on the devnet, do not change this value.
 
@@ -98,7 +100,7 @@ forge create --rpc-url https://rpc-evm-sidechain.xrpl.org \
     src/BandWorkshop.sol:BandWorkshop
 ```
 
-### Verifying the contract
+## Verifying the contract
 
 1. Replace <contract-address> with the "Deployed to" address shown after deployment in your terminal.
 
