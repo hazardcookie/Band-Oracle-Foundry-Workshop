@@ -27,7 +27,7 @@ forge install
 ### Connecting to the XRPL EVM Sidechain
 |Slides|Link|
 |---|---|
-|Band Oracle Workshop|[Band Oracle Workshop](slides/Cornell_EVM.pdf)|
+|Band Oracle Workshop|[Band Oracle Workshop](slides/bandworkshop.pdf)|
 
 |EVM Dev|Resource|
 |---|---|
