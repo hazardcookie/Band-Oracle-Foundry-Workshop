@@ -6,7 +6,7 @@ import {IStdReference} from "./interfaces/IStdReference.sol";
 /// @title BandWorkshop
 /// @notice A simple contract that demonstrates how to use the Band Standard Reference contract
 /// @author @hazardcookie
-contract BandWorkshop {
+contract BandWorkshop2 {
     IStdReference public ref;
 
     /// @param _ref The address of the Band Standard Reference contract

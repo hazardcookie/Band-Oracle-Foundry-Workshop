@@ -106,6 +106,6 @@ forge create --rpc-url https://rpc-evm-sidechain.xrpl.org \
 
 ```
 forge verify-contract  --chain-id 1440002 --verifier=blockscout \
---verifier-url=https://evm-sidechain.xrpl.org/api \
+--verifier-url=https://explorer.xrplevm.org/api \
 <contract-address>  src/BandWorkshop.sol:BandWorkshop
 ```
