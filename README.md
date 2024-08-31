@@ -27,7 +27,15 @@ forge install
 ### Connecting to the XRPL EVM Sidechain
 |Slides|Link|
 |---|---|
-|Band Oracle Workshop|[Band Oracle Workshop](slides/bandworkshop.pdf)|
+|XRPL Korea Hackathon Slides|[XRPL Korea Hackathon Slides](slides/bandworkshop.pdf)|
+|Band Oracle Workshop|[Band Oracle Workshop](slides/XRPLKoreaHackathon.pdf)|
+
+|Additional Workshops|Link|
+|---|---|
+|XRPL React Quickstart|https://github.com/maximedgr/xrpl-quickstart-react-crossmark|
+|XRPL EVM Hardhat Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-hardhat|
+|ZK EVM Workshop|https://github.com/maximedgr/zk-xrpl-evm-workshop|
+|XRPL EVM Rainbowkit Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit|
 
 |EVM Dev|Resource|
 |---|---|
