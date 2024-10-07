@@ -33,7 +33,7 @@ forge install
 |ChainId|1440002|
 
 ### Slides
-- [Permissionless Hackathon Slides](slides/Permissionless.pdf)
+- [Permissionless Hackathon Slides](slides/PermissionlessSlides.pdf)
 - [Band Oracle Workshop](slides/bandworkshop.pdf)
 
 ### Workshops
