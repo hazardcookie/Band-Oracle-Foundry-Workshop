@@ -42,13 +42,14 @@ forge install
 - [XRPL EVM Rainbowkit Quickstart](https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit)
 - [XRPL Mainnet React Quickstart](https://github.com/maximedgr/xrpl-quickstart-react-crossmark)
 
-### Additional Resources
+### Documentations
 - [XRPL Docs](https://xrpl.org/)
 - [XRPL Evm Webiste](https://xrplevm.org/)
 - [XRPL EVM Docs](https://docs.xrplevm.org/docs/evm-sidechain/intro-to-evm-sidechain/)
-- [Grants Funding](https://xrplgrants.org/)
-- [Accelerator Funding](https://xrplaccelerator.org/)
 
+### Funding Opportunities
+- [Grants](https://xrplgrants.org/)
+- [Accelerator](https://xrplaccelerator.org/)
 
 ### Additional Resources
 - [Live example of this demo's contract](https://explorer.xrplevm.org/address/0x5deDf28FE20896E63304C643Af8c3A38f561e267?tab=contract)
