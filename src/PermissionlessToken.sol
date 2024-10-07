@@ -6,6 +6,6 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract PermissionlessToken is ERC20 {
     constructor() ERC20("PermissionlessToken", "PT") {
-        _mint(msg.sender, 100000 * 10 ** decimals());
+        _mint(msg.sender, 1000000 * 10 ** decimals());
     }
 }
