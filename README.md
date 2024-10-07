@@ -25,18 +25,6 @@ forge install
 ## Resources
 
 ### Connecting to the XRPL EVM Sidechain
-|Slides|Link|
-|---|---|
-|XRPL Korea Hackathon Slides|[XRPL Korea Hackathon Slides](slides/bandworkshop.pdf)|
-|Band Oracle Workshop|[Band Oracle Workshop](slides/XRPLKoreaHackathon.pdf)|
-
-|Additional Workshops|Link|
-|---|---|
-|XRPL React Quickstart|https://github.com/maximedgr/xrpl-quickstart-react-crossmark|
-|XRPL EVM Hardhat Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-hardhat|
-|ZK EVM Workshop|https://github.com/maximedgr/zk-xrpl-evm-workshop|
-|XRPL EVM Rainbowkit Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit|
-
 |EVM Dev|Resource|
 |---|---|
 |Faucet & Bridge|https://bridge.devnet.xrpl.org/|
@@ -44,11 +32,26 @@ forge install
 |RPC|https://rpc-evm-sidechain.xrpl.org/|
 |ChainId|1440002|
 
+### Slides
+|Slides|Link|
+|---|---|
+|Permissionless|[Permissionless Hackathon Slides](slides/Permissionless.pdf)|
+|Band Oracle Workshop|[Band Oracle Workshop](slides/bandworkshop.pdf)|
+
+### Workshops
+|Additional Workshops|Link|
+|---|---|
+|XRPL EVM Hardhat Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-hardhat|
+|ZK EVM Workshop|https://github.com/maximedgr/zk-xrpl-evm-workshop|
+|XRPL EVM Rainbowkit Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit|
+|XRPL Mainnet React Quickstart|https://github.com/maximedgr/xrpl-quickstart-react-crossmark|
+
 ### Additional Resources
 |XRPL Resources|Link|
 |---|---|
 |XRPL Docs|https://xrpl.org/|
-|XRPL Evm Docs|https://xrplevm.org/|
+|XRPL Evm Webiste|https://xrplevm.org/|
+|XRPL EVM Docs|https://docs.xrplevm.org/docs/evm-sidechain/intro-to-evm-sidechain/|
 |Grants|https://xrplgrants.org/|
 |Accelerator|https://xrplaccelerator.org/|
 
