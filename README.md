@@ -33,18 +33,14 @@ forge install
 |ChainId|1440002|
 
 ### Slides
-|Slides|Link|
-|---|---|
-|Permissionless|[Permissionless Hackathon Slides](slides/Permissionless.pdf)|
-|Band Oracle Workshop|[Band Oracle Workshop](slides/bandworkshop.pdf)|
+- [Permissionless Hackathon Slides](slides/Permissionless.pdf)|
+- [Band Oracle Workshop](slides/bandworkshop.pdf)|
 
 ### Workshops
-|Additional Workshops|Link|
-|---|---|
-|XRPL EVM Hardhat Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-hardhat|
-|ZK EVM Workshop|https://github.com/maximedgr/zk-xrpl-evm-workshop|
-|XRPL EVM Rainbowkit Quickstart|https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit|
-|XRPL Mainnet React Quickstart|https://github.com/maximedgr/xrpl-quickstart-react-crossmark|
+- [XRPL EVM Hardhat Quickstart](https://github.com/maximedgr/xrpl-evm-quickstart-hardhat)
+- [ZK EVM Workshop](https://github.com/maximedgr/zk-xrpl-evm-workshop)
+- [XRPL EVM Rainbowkit Quickstart](https://github.com/maximedgr/xrpl-evm-quickstart-rainbowkit)
+- [XRPL Mainnet React Quickstart](https://github.com/maximedgr/xrpl-quickstart-react-crossmark)
 
 ### Additional Resources
 |XRPL Resources|Link|
